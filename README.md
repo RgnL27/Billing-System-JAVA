@@ -1,5 +1,5 @@
 # Billing-System-JAVA
-Java Billing System for project purposes
+Java Billing System for project purposes created on March 2019
 
 **Meralco Account ID**
 - 12345678
